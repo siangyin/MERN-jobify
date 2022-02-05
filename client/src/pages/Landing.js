@@ -3,9 +3,9 @@ import main from "../assets/images/main.svg";
 
 function Landing() {
 	return (
-		<div>
+		<main>
 			<h3>Landing Page</h3>
-		</div>
+		</main>
 	);
 }
 
